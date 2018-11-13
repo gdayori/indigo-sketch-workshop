@@ -2,10 +2,9 @@
 
 Sketch向けのデザインリソースとして、Indigo.Design Sketch UIキットを提供しています。
 
-UIキットには、50種類以上のIndigo.Design Sketch UIコンポーネントが入っており、それぞれがAngularコンポーネントにマッピングされているため、これらを使って画面デザインを行うことで、HTML、CSS、Angularコードが出力できるようになります。
+UIキットには、50種類以上のIndigo.Design Sketch UIコンポーネントが入っており、それぞれがアプリケーション開発時に利用できるAngularコンポーネントにマッピングされているため、これらを使って画面デザインを行うことで、HTML、CSS、Angularコードが出力できるようになります。
 
-ビデオチュートリアル - Sketch UI キットのインストール
-https://www.youtube.com/watch?v=dfAXbGwJ07s&feature=youtu.be
+![](assets/01-01.png)
 
 ## 手順
 UIキットはWebサイト上に公開されておりますので、通常であればそこからダウンロードしてSketchへインポートしますが、このハンズオンではバージョン差異によるハンズオンコンテンツとの不整合を防ぐために、当リポジトリ内にアップロードされているライブラリを利用します。
@@ -18,9 +17,9 @@ UIキットはWebサイト上に公開されておりますので、通常であ
 
 ## 補足
 
-Ignite UI CLI を利用せずに Angular CLI を利用して一からAngularプロジェクトの作成 ～ Ignite UI for Angular のインストールまで行う場合は、以下のWebページをご参考にして下さい。
+Sketch UI キットをダウンロードし、Sketchへインポートする方法は以下の動画で確認できます。
 
-[Ignite UI for Angular を開始 (npm利用)](https://jp.infragistics.com/products/ignite-ui-angular/getting-started#tab-npm)
+[ビデオチュートリアル - Sketch UI キットのインストール](https://www.youtube.com/watch?v=dfAXbGwJ07s&feature=youtu.be)
 
 ## Next
 
