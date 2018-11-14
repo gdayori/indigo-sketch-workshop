@@ -7,16 +7,15 @@ UIキットには、50種類以上のIndigo.Design Sketch UIコンポーネン�
 ![](assets/01-01.png)
 
 ## 手順
-UIキットはWebサイト上に公開されておりますので、通常であればそこからダウンロードしてSketchへインポートしますが、このハンズオンではバージョン差異によるハンズオンコンテンツとの不整合を防ぐために、当リポジトリ内にアップロードされているライブラリを利用します。
+UIキットはWebサイト上に公開されておりますので、通常であればそこからダウンロードしてSketchへインポートしますが、本ハンズオンではバージョン差異によるハンズオンコンテンツとの不整合を防ぐために、[当リポジトリ内にアップロードされているライブラリ](../libraries) を利用します。
 
-本ハンズオン向けのUIキットの場所<br>
-[https://jp.infragistics.com/products/ignite-ui-angular/getting-started#tab-ignite-ui-cli](https://jp.infragistics.com/products/ignite-ui-angular/getting-started#tab-ignite-ui-cli)
+※ githubからライブラリのみのダウンロードはできないので、[こちら](https://filetransfer.infragistics.com/public.php?service=files&t=67b4d87aa762985fe26e0b5545558d58) にライブラリのみをZip化ものが置いてあります。
 
 ダウンロードができたら、4つの.sketchファイルをSketch上で追加します。
 
 ![](assets/01-02.png)
 
-## 補足
+## 関連リソース
 
 Sketch UI キットをダウンロードし、Sketchへインポートする方法は以下の動画で確認できます。
 
