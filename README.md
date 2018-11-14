@@ -1,8 +1,8 @@
-# Indigo.Design ハンズオン with Sketch
+# Indigo.Design ハンズオン
 
 ## 本ハンズオンについて
 
-本ハンズオンは、Indigo.Design が提供するツールやプラグインを活用して、デザイン ～ プロトタイプ ～ コード生成 の一連の流れを体験するためのものです。お題に沿って手順を進めていくと簡単なタスク管理アプリのデザインをそのプロトタイピングを体験できます。ハンズオンを進めるためには [こちらの環境要件](docs/00-環境準備.md) が必要となるのでご注意ください。
+本ハンズオンは、Indigo.Design が提供するツールやプラグインを活用して、デザイン ～ プロトタイプ ～ コード生成 の一連の流れを体験するためのものです。お題に沿って手順を進めていくと簡単なタスク管理アプリのデザインとプロトタイピングを体験できます。ハンズオンを進めるためには [こちらの環境要件](docs/00-環境準備.md) が必要となるのでご注意ください。
 
 ## お題について
 
@@ -10,9 +10,7 @@
 
 ![](docs/assets/readme-00.png)
 
-[完成予想のプロトタイプ]()
-
-
+[完成予想のプロトタイプ](https://cloud.indigo.design/share/p5r2v5k97az9)
 
 ## Indigo.Design について
 
@@ -20,12 +18,9 @@ Indigo.Design は、ビジュアルデザイン、プロトタイピング、コ
 
 ![](docs/assets/readme-02.png)
 
-Indigo.Design 概要ビデオ
+[Indigo.Design 概要ビデオ](https://static.infragistics.com/marketing/Website/products/indigo-design/indigo-design-tour.jpg)
 
-[![クリックでIndigo.Designの概要ビデオにジャンプします。](https://static.infragistics.com/marketing/Website/products/indigo-design/indigo-design-tour.jpg)](https://www.youtube.com/watch?v=y2AYvoiHTD0&feature=youtu.be)
-
-[Indigo.Design概要](https://jp.infragistics.com/products/indigo-design)
-
+[Indigo.Design Web サイト](https://jp.infragistics.com/products/indigo-design)
 
 ## 目次
 0. [環境準備](docs/00-環境準備.md)
