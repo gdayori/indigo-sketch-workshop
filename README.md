@@ -10,9 +10,7 @@
 
 ![](docs/assets/readme-00.png)
 
-[完成予想のプロトタイプ](https://cloud.indigo.design/share/p5r2v5k97az9)
-
-{:target="_blank"}
+[完成予想のプロトタイプ](https://cloud.indigo.design/share/p5r2v5k97az9){:target="_blank"}
 
 ## Indigo.Design について
 
